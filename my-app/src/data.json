@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Modern Family House Villa",
-    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760207138/photo-1600585154340-be6161a56a0c_tqdwop.jpg",
     "location": "Bangalore, Karnataka",
     "price": 12000000,
     "area": 2100,
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "title": "Luxury Villa with Pool",
-    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760207220/photo-1580587771525-78b9dba3b914_bgmqin.jpg",
     "location": "Mumbai, Maharashtra",
     "price": 35000000,
     "area": 5000,
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "title": "Cozy Apartment in City Center",
-    "image": "https://tse3.mm.bing.net/th/id/OIP.GrQu7Irbcl_8sSDKs_4MegHaE_?pid=Api&P=0&h=180",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760207280/OIP_iw9n8d.jpg",
     "location": "Delhi",
     "price": 9500000,
     "area": 1100,
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "title": "Compact Studio Apartment",
-    "image": "https://www.interiorzine.com/wp-content/uploads/2017/11/interior-design-for-small-studio-apartment.jpg",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760207327/interior-design-for-small-studio-apartment_xxso22.jpg",
     "location": "Pune, Maharashtra",
     "price": 4500000,
     "area": 600,
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "title": "Duplex Bungalow with Lawn",
-    "image": "http://www.freshpalace.com/wp-content/uploads/2013/03/Bungalow-Baroda-India-Lawn-Pool-Patio-Door.jpg",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760207378/Bungalow-Baroda-India-Lawn-Pool-Patio-Door_wtzhh9.jpg",
     "location": "Chennai, Tamil Nadu",
     "price": 22000000,
     "area": 2800,
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "title": "Premium High-Rise Apartment Bungalow",
-    "image": "https://images.squarespace-cdn.com/content/v1/55467dc6e4b0ebaf8fab24a0/1615169436643-QXNIWJ3W58D5JVAHSMX7/c2+%281%29.jpg",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760207431/c2_281_29_immuyf.webp",
     "location": "Hyderabad, Telangana",
     "price": 18500000,
     "area": 1900,
@@ -74,7 +74,7 @@
   {
     "id": 7,
     "title": "Penthouse with Terrace Garden Villa",
-    "image": "https://i.pinimg.com/originals/13/70/02/137002f0cceef7bf72736e85fb070f41.jpg",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760207484/137002f0cceef7bf72736e85fb070f41_srpknc.jpg",
     "location": "Ahmedabad, Gujarat",
     "price": 27000000,
     "area": 3200,
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "title": "Budget-Friendly Flat",
-    "image": "https://st.hzcdn.com/simgs/fee1b4210d9369d7_4-1161/modern-exterior.jpg",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209166/2-bar-green-roof-feldman-architecture-inc-img_fee1b4210d9369d7_14-1161-1-0877e3b_cjpfkb.jpg",
     "location": "Lucknow, UP",
     "price": 6000000,
     "area": 1000,
@@ -98,7 +98,7 @@
   {
     "id": 9,
     "title": "Smart Home with Voice Control Bungalow",
-    "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209340/photo-1554995207-c18c203602cb_d671mc.jpg",
     "location": "Indore, MP",
     "price": 16000000,
     "area": 2400,
@@ -110,7 +110,7 @@
   {
     "id": 10,
     "title": "Eco-Friendly Home",
-    "image": "https://static.vecteezy.com/system/resources/previews/026/807/638/large_2x/eco-friendly-house-with-a-modern-design-and-a-strong-emphasis-on-sustainability-3d-render-generative-ai-photo.jpg",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209378/eco-friendly-house-with-a-modern-design-and-a-strong-emphasis-on-sustainability-3d-render-generative-ai-photo_uay60j.jpg",
     "location": "Jaipur, Rajasthan",
     "price": 14000000,
     "area": 2100,
@@ -122,7 +122,7 @@
   {
     "id": 11,
     "title": "Hill View Paradise Villa",
-    "image":"https://s-media-cache-ak0.pinimg.com/originals/98/af/d0/98afd095cf7ddd5240716e51b65a8c24.jpg",
+    "image":"https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209424/98afd095cf7ddd5240716e51b65a8c24_xxsrph.jpg",
     "location": "Manali, Himachal Pradesh",
     "map": "https://maps.google.com/?q=Manali, Himachal Pradesh",
     "price": 6500000,
@@ -134,7 +134,7 @@
   {
     "id": 12,
     "title": "Skyline Apartment",
-    "image":"https://img.freepik.com/premium-photo/luxury-apartment-view-modern-city-skyline-dusk_706399-15807.jpg",
+    "image":"https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209462/luxury-apartment-view-modern-city-skyline-dusk_706399-15807_oibl24.jpg",
     "location": "Hyderabad, Telangana",
     "map": "https://maps.google.com/?q=Hyderabad, Telangana",
     "price": 7800000,
@@ -146,7 +146,7 @@
   {
     "id": 13,
     "title": "Riverfront Bungalow",
-    "image":"https://loveincorporated.blob.core.windows.net/contentimages/gallery/052ac71d-ae99-48e6-867c-cd42dcc543a8-LindenLane2.jpg",
+    "image":"https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209509/052ac71d-ae99-48e6-867c-cd42dcc543a8-LindenLane2_otxzxy.jpg",
     "location": "Kochi, Kerala",
     "map": "https://maps.google.com/?q=Kochi, Kerala",
     "price": 8900000,
@@ -158,7 +158,7 @@
   {
     "id": 14,
     "title": "Eco-Friendly Cottage",
-    "image": "https://canadianhometrends.com/wp-content/uploads/2020/07/WWV-005-1320x877.jpg",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209547/WWV-005-1320x877_ylghmm.jpg",
     "location": "Auroville, Tamil Nadu",
     "map": "https://maps.google.com/?q=Auroville, Tamil Nadu",
     "price": 4700000,
@@ -170,7 +170,7 @@
   {
     "id": 15,
     "title": "Studio in the City Apartment",
-    "image": "https://wsdg.com/wp-content/uploads/ViennaCitySound-3-Control-Room-Side.jpg",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209619/ViennaCitySound-3-Control-Room-Side_dpvyli.jpg",
     "location": "Mumbai, Maharashtra",
     "map": "https://maps.google.com/?q=Mumbai, Maharashtra",
     "price": 5300000,
@@ -182,7 +182,7 @@
   {
     "id": 16,
     "title": "Family Haven Villa",
-    "image": "https://wallpapercave.com/wp/wp6254065.jpg",
+    "image": "https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209654/wp6254065_xqgpku.jpg",
     "location": "Nagpur, Maharashtra",
     "map": "https://maps.google.com/?q=Nagpur, Maharashtra",
     "price": 9800000,
@@ -194,7 +194,7 @@
   {
     "id": 17,
     "title": "Lakeview Home Bungalow",
-    "image":"https://i.pinimg.com/originals/2b/57/ba/2b57ba21e237278196ff57c2f83115e2.jpg",
+    "image":"https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209702/2b57ba21e237278196ff57c2f83115e2_dvwt7a.jpg",
     "location": "Udaipur, Rajasthan",
     "map": "https://maps.google.com/?q=Udaipur, Rajasthan",
     "price": 7300000,
@@ -206,7 +206,7 @@
   {
     "id": 18,
     "title": "Urban Heights Apartment",
-    "image":"https://images1.apartments.com/i2/jQWLOMFbmWsGD3CBivzPkQBvsxS7MauU28FKRG-Mr7E/111/the-heights-collection---1548-ashland-houston-tx-primary-photo.jpg?p=1",
+    "image":"https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209743/the-heights-collection---1548-ashland-houston-tx-primary-photo_onfy5y.jpg",
     "location": "Noida, Uttar Pradesh",
     "map": "https://maps.google.com/?q=Noida, Uttar Pradesh",
     "price": 7100000,
@@ -218,7 +218,7 @@
   {
     "id": 19,
     "title": "Luxury Sky Villa",
-    "image":"https://www.forbesglobalproperties.com/wp-content/uploads/2025/05/qEJaF7jzEPYbaXuNqYlkG87wfPYzltJrLqihqJKo-1120293-1748137699-1600x1067.jpg",
+    "image":"https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209792/qEJaF7jzEPYbaXuNqYlkG87wfPYzltJrLqihqJKo-1120293-1748137699-1600x1067_ewpte3.jpg",
     "location": "Gurgaon, Haryana",
     "map": "https://maps.google.com/?q=Gurgaon, Haryana",
     "price": 15000000,
@@ -230,7 +230,7 @@
   {
     "id": 20,
     "title": "Peaceful Retreat Bungalow",
-    "image":"https://img.freepik.com/premium-photo/peaceful-mountain-cabin-retreat_1126694-31409.jpg",
+    "image":"https://res.cloudinary.com/dy9gltg7s/image/upload/v1760209824/peaceful-mountain-cabin-retreat_1126694-31409_zujxn9.jpg",
     "location": "Dharamshala, Himachal Pradesh",
     "map": "https://maps.google.com/?q=Dharamshala, Himachal Pradesh",
     "price": 6000000,

@@ -69,8 +69,8 @@ function Home() {
     
     <>
        <div 
-       className="p-4  bg-blue-300 dark:bg-gray-600 md:flex  md:flex-row items-center gap-4 
-       justify-between mx-5 rounded shadow grid grid-cols-2 border-t border-b top-20 z-50 sticky">
+       className="p-3 md-p-4  bg-blue-300 dark:bg-gray-600 md:flex  md:flex-row items-center gap-4 
+       justify-between mx-5 rounded shadow grid grid-cols-2 border-t border-b md:top-20 top-[6.5rem] z-50 sticky">
   
          <button
                   onClick={resetFilters}
@@ -122,7 +122,7 @@ function Home() {
           <img
             src={item.image}
             alt={item.title}
-            className="w-full h-48 object-cover rounded mb-4"
+            className="w-full h-65 object-cover rounded mb-4"
           />
           <div className="flex md:flex-row md:justify-between sm:flex-col">
              <h2 className="text-xl font-semibold">{item.title}</h2>

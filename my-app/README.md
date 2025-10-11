@@ -110,7 +110,7 @@ On the property page, clicking **"Enquire Now"** opens a popup form (no backend,
 
 ## 🔗 Deployed Link
 
-👉 [Live Demo](https://regal-selkie-922f73.netlify.app/)
+👉 [Live Demo](https://monumental-cobbler-1a76b5.netlify.app/)
 
 ---
 

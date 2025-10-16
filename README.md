@@ -2,7 +2,9 @@
 
 This is a modern, responsive Real Estate Property Listing UI built using **React**, **Vite**, **Tailwind CSS**, and **React Router**. It also includes a custom **Dark Mode** using React Context and mock data served from a local JSON file.
 
-> 👨‍💻 Developed by **Ritesh Kumar Jena**
+## 🔗 Deployed Link
+
+👉 [Live Demo](https://monumental-cobbler-1a76b5.netlify.app/)
 
 ## 📸 Screenshots
 
@@ -107,10 +109,6 @@ On the property page, clicking **"Enquire Now"** opens a popup form (no backend,
   "map": "https://maps.google.com/..."
 }
 ```
-
-## 🔗 Deployed Link
-
-👉 [Live Demo](https://monumental-cobbler-1a76b5.netlify.app/)
 
 ---
 

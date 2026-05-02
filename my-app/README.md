@@ -110,7 +110,7 @@ On the property page, clicking **"Enquire Now"** opens a popup form (no backend,
 
 ## 🔗 Deployed Link
 
-👉 [Live Demo](https://real-estate-property-listing-ritesh.netlify.app/)
+👉 [Live Demo](https://real-estate-propertylisting-ui-ritesh.netlify.app/)
 
 ---
 

@@ -4,7 +4,7 @@ This is a modern, responsive Real Estate Property Listing UI built using **React
 
 ## 🔗 Deployed Link
 
-👉 [Live Demo](https://real-estate-property-listing-ritesh.netlify.app/)
+👉 [Live Demo](https://real-estate-propertylisting-ui-ritesh.netlify.app/)
 
 ## 📸 Screenshots
 
